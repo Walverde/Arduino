@@ -1,0 +1,27 @@
+______________________________________________
+KY 017 Sensor de mercurio. 
+
+https://arduinomodules.info/ky-017-mercury-switch-module/
+______________________________________________
+LED.
+
+https://www.iar.unicamp.br/lab/luz/dicasemail/led/dica36.htm
+______________________________________________
+ARDUIN UNO:
+
+https://www.arduino.cc/en/Main/Donate
+
+Drive arduino placas genericas:
+
+https://wiki.wemos.cc/downloads
+
+______________________________________________
+PROTEUS: 
+
+Como instalar. 
+
+http://microcontrolandos.blogspot.com/2013/04/proteus-8-professional.html
+
+Link para baixar direto. 
+
+http://bit.ly/2GsnJ6H
